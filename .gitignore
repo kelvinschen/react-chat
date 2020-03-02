@@ -18,6 +18,8 @@
 .env.test.local
 .env.production.local
 
+react-chat.code-workspace
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
